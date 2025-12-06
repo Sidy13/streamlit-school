@@ -15,3 +15,7 @@ des établissements scolaires du premier et second degré en France.
 
 pip install -r requirements.txt
 streamlit run app.py
+
+## Lien vers l'application
+
+https://sidy13-streamlit-school-app-w7nqgy.streamlit.app
