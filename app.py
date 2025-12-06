@@ -78,8 +78,7 @@ st.set_page_config(
 
 st.title("Data-story : Établissements du premier et second degré — France")
 st.markdown("""
-**Objectif :** analyser la répartition géographique et institutionnelle des établissements scolaires en France  
-(public / privé, régions, départements).
+**Problématique :** Existe-t-il une différence significative de répartition spatiale entre les établissements scolaires publics et privés en France ?
 """)
 
 #Sidebar – chargement
