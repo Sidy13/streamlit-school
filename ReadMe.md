@@ -13,5 +13,5 @@ des établissements scolaires du premier et second degré en France.
 
 ## Lancer l'application
 
-pip install -r requirements.txt
-streamlit run app.py
+- pip install -r requirements.txt
+- streamlit run app.py
